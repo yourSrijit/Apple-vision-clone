@@ -6,4 +6,3 @@ This project is a recreation of Apple's Vision website using HTML, CSS, JavaScri
 https://github.com/yourSrijit/Frontend-Projects-2024/assets/91645620/f8f80b3e-ff40-4dca-aa98-c600570832f5
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P3fHboyHvkg?autoplay=1&mute=1&loop=1&playlist=P3fHboyHvkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
